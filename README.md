@@ -244,25 +244,4 @@
   <p>Thank you for visiting my profile!</p>
 </div>
 
-<!-- Add custom CSS for animations -->
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease-in-out;
-  }
-  
-  .github-stats img:hover {
-    filter: drop-shadow(0 0 10px #00CED1);
-  }
-  
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  .float {
-    animation: float 3s ease-in-out infinite;
-  }
-</style>
