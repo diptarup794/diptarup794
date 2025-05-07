@@ -191,16 +191,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=diptarup794&theme=tokyonight&no-frame=true&row=1&column=7" alt="diptarup794" />
 </div>
 
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/diptarup794/ai-research-assistant">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=diptarup794&repo=ai-research-assistant&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/diptarup794/pdf-communicator">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=diptarup794&repo=pdf-communicator&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
 
 
 ## 📚 Currently Learning
