@@ -95,29 +95,29 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">AI Research Assistant</h3>
+        <h3 align="center">🤖 AI Research Assistant</h3>
         <p align="center">
-          <a href="https://github.com/diptarup794/ai-research-assistant" target="_blank">
-            <img src="https://media.giphy.com/media/l0HlMldqhAt3QYEw0/giphy.gif" width="100%" alt="Project"/>
+          <a href="https://github.com/diptarup794/Virtual-Research-Assistant" target="_blank">
+            <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100%" alt="AI Research Assistant"/>
           </a>
           <p align="center">
-            GPT-powered research tool using LangChain, GenAI, and AutoGen with Streamlit UI for advanced PDF summarization and Q&A
+            GPT-powered research tool using LangChain, GenAI, and AutoGen with Flask UI for advanced PDF summarization and Q&A
           </p>
           <p align="center">
             <a href="https://github.com/diptarup794/ai-research-assistant" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=live&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">PDF Communicator</h3>
+        <h3 align="center">📄 PDF Communicator</h3>
         <p align="center">
           <a href="https://github.com/diptarup794/pdf-communicator" target="_blank">
-            <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="Project"/>
+            <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="100%" alt="PDF Communicator"/>
           </a>
           <p align="center">
             Gemini API-powered PDF question-answer chatbot with advanced RAG pipeline for context-aware responses
@@ -127,7 +127,7 @@
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=live&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
         </p>
@@ -135,10 +135,10 @@
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Signature Verification</h3>
+        <h3 align="center">✍️ Signature Verification</h3>
         <p align="center">
-          <a href="https://github.com/diptarup794/signature-verification" target="_blank">
-            <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%" alt="Project"/>
+          <a href="https://github.com/diptarup794/Signature-Extraction-and-Matching-" target="_blank">
+            <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="100%" alt="Signature Verification"/>
           </a>
           <p align="center">
             Image preprocessing + ResNet50 for robust signature authentication with 94.7% accuracy
@@ -148,30 +148,33 @@
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=live&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Demo-00B2FF?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Remote Sensing Image Segmentation</h3>
+        <h3 align="center">🗃️ SQL Agent</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" width="100%" alt="Project"/>
+          <a href="https://github.com/diptarup794/Sql_Agent" target="_blank">
+            <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="SQL Agent"/>
           </a>
           <p align="center">
-            U-NET & Res-UNET with CRF for ISRO satellite imagery segmentation with noise handling & post-processing
+            Multi-Agent System to communicate with SQL databases using LangChain, LangGraph with Flask and Tailwind UI
           </p>
           <p align="center">
-            <a href="#" target="_blank">
+            <a href="https://github.com/diptarup794/Sql_Agent" target="_blank">
               <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Paper-FF4500?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Paper-FF4500?style=for-the-badge&logo=readthedocs&logoColor=white"/>
             </a>
           </p>
         </p>
       </td>
+    </tr>
+  </table>
+</div>/td>
     </tr>
   </table>
 </div>
